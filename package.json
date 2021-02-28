@@ -1,0 +1,28 @@
+{
+  "name": "team-tagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickhill543/team-tagger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickhill543/team-tagger/issues"
+  },
+  "homepage": "https://github.com/rickhill543/team-tagger#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
